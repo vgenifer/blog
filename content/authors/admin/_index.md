@@ -39,7 +39,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Programming
-  - Math
+
 
 education:
   - area: Bachelors Degree in Mathematics and Mechanics
